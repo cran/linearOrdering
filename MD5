@@ -1,10 +1,10 @@
-2c53bd8be5ed922f9751ec9fd4ccf166 *DESCRIPTION
+a0c6b5e711b9800b860e509a06112496 *DESCRIPTION
 d034457c6997566f3fb99bd1bf5fa55d *LICENSE
 6952996e53a0e153e267212c4e014e06 *NAMESPACE
-49e895910c7aa9346e19444a4977570e *NEWS.md
-7dd3356360a830ea0e4f69c370ee863f *R/linear_ordering_methods.R
+793e9794f9d906bec359bd1a4d700dc2 *NEWS.md
+5c20cbec8e378900dac2972f7b91e58d *R/linear_ordering_methods.R
 ddbb182a436f34fbc997ac03723b6dc7 *R/utility_functions.R
-958ebf2fdb957f1b3caa2992f23462bf *README.md
+718dd58de632aa5095be7d8c6dbceb2c *README.md
 968022abb6fba3b0aa9591e564b13dae *man/hellwig.Rd
 3019a0ddba0fa6789b5270874c771c38 *man/standardized_sums.Rd
 3ddfb19af4e0010b85dbde7976a0ddbc *man/sum_of_ranks.Rd
